@@ -1,4 +1,16 @@
 # Byte-compiled / optimized / DLL files
+
+.ipynb_checkpoints/
+1/
+2/
+MSU-VIRT-DATA-PT-05-2022-U-B-main-08-ETL.zip
+Untitled.ipynb
+archive.zip
+movies_metadata.csv
+ratings.csv
+wikipedia-movies.json
+config.py
+
 __pycache__/
 *.py[cod]
 *$py.class
