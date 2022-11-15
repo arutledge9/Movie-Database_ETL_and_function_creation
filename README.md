@@ -1,5 +1,4 @@
-# Movies-ETL
-Module 8 ETL work
+# Movie Database ETL and function creation
 
 
 ## Summary
